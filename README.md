@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently Freelancing
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="cossth's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cossth&show_icons=true&hide_border=true" />
+
+</details>
