@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "tx": "github:shubham-vunet/tx"
+  }
+}
